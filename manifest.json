@@ -7,6 +7,6 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "zwinc.github.io/applespro/app.html",
+  "start_url": "app.html",
   "display": "minimal-ui"
 }
